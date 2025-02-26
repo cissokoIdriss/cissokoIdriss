@@ -7,9 +7,5 @@ If you’d like to explore some of my personal projects or see what I’m workin
     Here
   </a> 
 
-You can also find me on LinkedIn : </br>
-<span> :point_right:</span> <a href="https://www.linkedin.com/in/idrissciss" target="_blank" rel="noreferrer">Here</a> </br>
 
-Or visit my website : </br>
-<span> :point_right:</span> <a href="https://www.idrisscissoko.com" target="_blank" rel="noreferrer">Here</a>
 
